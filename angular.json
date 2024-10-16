@@ -27,7 +27,8 @@
               }
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "https://assets.calendly.com/assets/external/widget.css"
             ],
             "scripts": []
           },
